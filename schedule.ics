@@ -1,0 +1,65 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:-//Armaan//PHYSL210 Exams//EN
+METHOD:PUBLISH
+X-WR-CALNAME:PHYSL 210 C01 Exams
+X-WR-TIMEZONE:America/Edmonton
+BEGIN:VEVENT
+UID:cd57813b-8eaf-4ca5-879f-04a7949cf970@armaan-physl210
+SUMMARY:PHYSL 210 C01 — 1st Midterm (15%)
+DTSTART;TZID=America/Edmonton:20251021T111000
+DTEND;TZID=America/Edmonton:20251021T115000
+LOCATION:ECHA 2-490
+DESCRIPTION:Topics: Cell Physiology; Blood and Nerve; Muscle Synapse.
+END:VEVENT
+BEGIN:VEVENT
+UID:676f2313-46f5-49e8-b7ed-e0a901a39271@armaan-physl210
+SUMMARY:PHYSL 210 C01 — December Exam (35%) — Time TBA
+DTSTART;VALUE=DATE:20251211
+DTEND;VALUE=DATE:20251212
+LOCATION:TBA
+DESCRIPTION:All first-term material. Time & room to be announced by the Registrar.
+END:VEVENT
+BEGIN:VEVENT
+UID:bc25734f-6351-454e-ac13-93d99fa3f05e@armaan-physl210
+SUMMARY:PHYSL 210 C01 — 2nd Midterm (15%)
+DTSTART;TZID=America/Edmonton:20260210T111000
+DTEND;TZID=America/Edmonton:20260210T115000
+LOCATION:ECHA 2-490
+DESCRIPTION:Topics: Respiration; Gastrointestinal Physiology; Special Senses.
+END:VEVENT
+BEGIN:VEVENT
+UID:5254af2a-69e4-4b0a-944d-0516b4b94fe0@armaan-physl210
+SUMMARY:PHYSL 210 C01 — Final Exam (35%) — Time TBA
+DTSTART;VALUE=DATE:20260421
+DTEND;VALUE=DATE:20260422
+LOCATION:TBA
+DESCRIPTION:All second-term material. Time & room to be announced by the Registrar.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:162967d4-1d7b-42a4-81a7-a508ef2b5a47@armaan-second-syllabus
+SUMMARY:(T LB-001) — 1st Midterm (25%)
+DTSTART;TZID=America/Edmonton:20251002T153000
+DTEND;TZID=America/Edmonton:20251002T165000
+LOCATION:T LB-001
+DESCRIPTION:Covers Lectures 1–8: Introductory lectures, skeletal system, muscular system; plus anything posted on Canvas (Sep 2–Sep 25).
+END:VEVENT
+BEGIN:VEVENT
+UID:0ef5dc34-821d-4d6f-b7db-47b0e39a9ce4@armaan-second-syllabus
+SUMMARY:(T LB-001) — 2nd Midterm (25%)
+DTSTART;TZID=America/Edmonton:20251104T153000
+DTEND;TZID=America/Edmonton:20251104T165000
+LOCATION:T LB-001
+DESCRIPTION:Covers Lectures 9–15: Integumentary, nervous, circulatory systems; plus anything posted on Canvas (Oct 7–Oct 28).
+END:VEVENT
+BEGIN:VEVENT
+UID:0889cb3a-bf7a-4813-be0e-45e446e721e2@armaan-second-syllabus
+SUMMARY:(Room TBA) — Final Exam (35%) — starts 17:30
+DTSTART;TZID=America/Edmonton:20251211T173000
+DTEND;TZID=America/Edmonton:20251211T203000
+LOCATION:TBA
+DESCRIPTION:Mainly Lectures 16–23: endocrine, respiratory, gastrointestinal, urinary, reproductive systems. ~10–15% cumulative from midterms. Start time fixed; end time is a placeholder until confirmed.
+END:VEVENT
+END:VCALENDAR
