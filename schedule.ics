@@ -62,4 +62,174 @@ DTEND;TZID=America/Edmonton:20251211T203000
 LOCATION:TBA
 DESCRIPTION:Mainly Lectures 16–23: endocrine, respiratory, gastrointestinal, urinary, reproductive systems. ~10–15% cumulative from midterms. Start time fixed; end time is a placeholder until confirmed.
 END:VEVENT
+
+BEGIN:VEVENT
+UID:b097b9df-abd6-4de6-a6b6-cc0dd9992b68@armaan-quizzes
+SUMMARY:Quiz 1 (1%) — Opens
+DTSTART;TZID=America/Edmonton:20250904T170000
+DTEND;TZID=America/Edmonton:20250909T120000
+DESCRIPTION:Covers 2 introductory lectures. 10 questions. | Closes Tuesday 12:00 (noon).
+END:VEVENT
+BEGIN:VEVENT
+UID:206864ed-366a-4cec-afcc-4fa67ece2fb0@armaan-quizzes
+SUMMARY:Quiz 2 (2%) — Opens
+DTSTART;TZID=America/Edmonton:20250916T170000
+DTEND;TZID=America/Edmonton:20250921T120000
+DESCRIPTION:Covers 3 skeletal system lectures. 20 questions. | Closes Sunday 12:00 (noon).
+END:VEVENT
+BEGIN:VEVENT
+UID:a434a5fd-81b6-4fef-a959-916a10527132@armaan-quizzes
+SUMMARY:Quiz 3 (2%) — Opens
+DTSTART;TZID=America/Edmonton:20250925T170000
+DTEND;TZID=America/Edmonton:20250930T120000
+DESCRIPTION:Covers 3 muscular system lectures. 20 questions. | Closes Tuesday 12:00 (noon).
+END:VEVENT
+BEGIN:VEVENT
+UID:6cca04a6-596d-4424-ac68-8240ebfe3710@armaan-quizzes
+SUMMARY:Quiz 4 (2%) — Opens
+DTSTART;TZID=America/Edmonton:20251016T170000
+DTEND;TZID=America/Edmonton:20251021T120000
+DESCRIPTION:Covers integument + first 3 nervous system lectures. 20 questions. | Closes Tuesday 12:00 (noon).
+END:VEVENT
+BEGIN:VEVENT
+UID:36a9619f-1f29-4679-a231-645b8c4f31ad@armaan-quizzes
+SUMMARY:Quiz 5 (2%) — Opens
+DTSTART;TZID=America/Edmonton:20251028T170000
+DTEND;TZID=America/Edmonton:20251102T120000
+DESCRIPTION:Covers cranial nerve + 2 circulatory system lectures. 20 questions. | Closes Sunday 12:00 (noon).
+END:VEVENT
+BEGIN:VEVENT
+UID:513ec2fa-3ad9-49bf-855d-51c18870a5c3@armaan-quizzes
+SUMMARY:Quiz 6 (2%) — Opens
+DTSTART;TZID=America/Edmonton:20251106T170000
+DTEND;TZID=America/Edmonton:20251111T120000
+DESCRIPTION:Covers endocrine + respiratory systems lectures. 20 questions. | Closes Tuesday 12:00 (noon).
+END:VEVENT
+BEGIN:VEVENT
+UID:1b35d347-00fa-4663-a1d1-b467ca4c0f08@armaan-quizzes
+SUMMARY:Quiz 7 (2%) — Opens
+DTSTART;TZID=America/Edmonton:20251125T170000
+DTEND;TZID=America/Edmonton:20251130T120000
+DESCRIPTION:Covers urinary + 2 gastrointestinal systems lectures. 20 questions. | Closes Sunday 12:00 (noon).
+END:VEVENT
+BEGIN:VEVENT
+UID:3ce7eb2d-6723-496b-9a54-7d2b3b4af73b@armaan-quizzes
+SUMMARY:Quiz 8 (2%) — Opens
+DTSTART;TZID=America/Edmonton:20251204T170000
+DTEND;TZID=America/Edmonton:20251209T120000
+DESCRIPTION:Covers 3 reproductive system lectures. 20 questions. | Closes Tuesday 12:00 (noon).
+END:VEVENT
+
+BEGIN:VEVENT
+UID:bff7392c-8c46-4f76-85ae-5b211bfc1020@armaan-quiz
+SUMMARY:Quiz 1 OPENS (Canvas)
+DTSTART;TZID=America/Edmonton:20250904T170000
+DTEND;TZID=America/Edmonton:20250904T171500
+DESCRIPTION:Opens on Thursday 17:00; closes following Tuesday 12:00. You have 45 minutes, 1 attempt.
+END:VEVENT
+BEGIN:VEVENT
+UID:82f52222-7d08-4132-a234-895d03577403@armaan-quiz
+SUMMARY:Quiz 1 CLOSES (deadline)
+DTSTART;TZID=America/Edmonton:20250909T120000
+DTEND;TZID=America/Edmonton:20250909T121500
+DESCRIPTION:Deadline to submit; late submissions not accepted.
+END:VEVENT
+BEGIN:VEVENT
+UID:2906477e-bbc9-49af-84e3-a8a671a11006@armaan-quiz
+SUMMARY:Quiz 2 OPENS (Canvas)
+DTSTART;TZID=America/Edmonton:20250916T170000
+DTEND;TZID=America/Edmonton:20250916T171500
+DESCRIPTION:Opens on Tuesday 17:00; closes following Sunday 12:00. You have 45 minutes, 1 attempt.
+END:VEVENT
+BEGIN:VEVENT
+UID:69a79a4e-cd73-478c-b807-0472b8b1fba0@armaan-quiz
+SUMMARY:Quiz 2 CLOSES (deadline)
+DTSTART;TZID=America/Edmonton:20250921T120000
+DTEND;TZID=America/Edmonton:20250921T121500
+DESCRIPTION:Deadline to submit; late submissions not accepted.
+END:VEVENT
+BEGIN:VEVENT
+UID:16ace784-8d83-4901-9b7c-f76afa9d389e@armaan-quiz
+SUMMARY:Quiz 3 OPENS (Canvas)
+DTSTART;TZID=America/Edmonton:20250925T170000
+DTEND;TZID=America/Edmonton:20250925T171500
+DESCRIPTION:Opens on Thursday 17:00; closes following Tuesday 12:00. You have 45 minutes, 1 attempt.
+END:VEVENT
+BEGIN:VEVENT
+UID:722ffa83-e855-4dea-a884-81e47a5f474e@armaan-quiz
+SUMMARY:Quiz 3 CLOSES (deadline)
+DTSTART;TZID=America/Edmonton:20250930T120000
+DTEND;TZID=America/Edmonton:20250930T121500
+DESCRIPTION:Deadline to submit; late submissions not accepted.
+END:VEVENT
+BEGIN:VEVENT
+UID:c37444a2-d9e8-4b3c-8fe3-2f56523ed635@armaan-quiz
+SUMMARY:Quiz 4 OPENS (Canvas)
+DTSTART;TZID=America/Edmonton:20251016T170000
+DTEND;TZID=America/Edmonton:20251016T171500
+DESCRIPTION:Opens on Thursday 17:00; closes following Tuesday 12:00. You have 45 minutes, 1 attempt.
+END:VEVENT
+BEGIN:VEVENT
+UID:dad8deff-aa10-49db-86b7-ca5329d254b3@armaan-quiz
+SUMMARY:Quiz 4 CLOSES (deadline)
+DTSTART;TZID=America/Edmonton:20251021T120000
+DTEND;TZID=America/Edmonton:20251021T121500
+DESCRIPTION:Deadline to submit; late submissions not accepted.
+END:VEVENT
+BEGIN:VEVENT
+UID:ad1ff900-f736-4160-91b5-f7509b96e8f7@armaan-quiz
+SUMMARY:Quiz 5 OPENS (Canvas)
+DTSTART;TZID=America/Edmonton:20251028T170000
+DTEND;TZID=America/Edmonton:20251028T171500
+DESCRIPTION:Opens on Tuesday 17:00; closes following Sunday 12:00. You have 45 minutes, 1 attempt.
+END:VEVENT
+BEGIN:VEVENT
+UID:ae13a656-6a6f-4ca6-a561-fd8dba6a1aef@armaan-quiz
+SUMMARY:Quiz 5 CLOSES (deadline)
+DTSTART;TZID=America/Edmonton:20251102T120000
+DTEND;TZID=America/Edmonton:20251102T121500
+DESCRIPTION:Deadline to submit; late submissions not accepted.
+END:VEVENT
+BEGIN:VEVENT
+UID:4d54c5ee-8916-4913-93f6-a403ab0b3826@armaan-quiz
+SUMMARY:Quiz 6 OPENS (Canvas)
+DTSTART;TZID=America/Edmonton:20251106T170000
+DTEND;TZID=America/Edmonton:20251106T171500
+DESCRIPTION:Opens on Thursday 17:00; closes following Tuesday 12:00. You have 45 minutes, 1 attempt.
+END:VEVENT
+BEGIN:VEVENT
+UID:0194f5bc-0bcd-4607-bcd3-b70fd21980ff@armaan-quiz
+SUMMARY:Quiz 6 CLOSES (deadline)
+DTSTART;TZID=America/Edmonton:20251111T120000
+DTEND;TZID=America/Edmonton:20251111T121500
+DESCRIPTION:Deadline to submit; late submissions not accepted.
+END:VEVENT
+BEGIN:VEVENT
+UID:13c01ceb-92fa-4ccc-a9cc-a53aab6fe84a@armaan-quiz
+SUMMARY:Quiz 7 OPENS (Canvas)
+DTSTART;TZID=America/Edmonton:20251125T170000
+DTEND;TZID=America/Edmonton:20251125T171500
+DESCRIPTION:Opens on Tuesday 17:00; closes following Sunday 12:00. You have 45 minutes, 1 attempt.
+END:VEVENT
+BEGIN:VEVENT
+UID:bcb26761-e382-47ee-b98f-38f70370dea1@armaan-quiz
+SUMMARY:Quiz 7 CLOSES (deadline)
+DTSTART;TZID=America/Edmonton:20251130T120000
+DTEND;TZID=America/Edmonton:20251130T121500
+DESCRIPTION:Deadline to submit; late submissions not accepted.
+END:VEVENT
+BEGIN:VEVENT
+UID:59c4d8ed-63ef-403a-a96d-6dc943e4743b@armaan-quiz
+SUMMARY:Quiz 8 OPENS (Canvas)
+DTSTART;TZID=America/Edmonton:20251204T170000
+DTEND;TZID=America/Edmonton:20251204T171500
+DESCRIPTION:Opens on Thursday 17:00; closes following Tuesday 12:00. You have 45 minutes, 1 attempt.
+END:VEVENT
+BEGIN:VEVENT
+UID:54db23ca-7826-4962-adbf-73efafbdd9fe@armaan-quiz
+SUMMARY:Quiz 8 CLOSES (deadline)
+DTSTART;TZID=America/Edmonton:20251209T120000
+DTEND;TZID=America/Edmonton:20251209T121500
+DESCRIPTION:Deadline to submit; late submissions not accepted.
+END:VEVENT
 END:VCALENDAR
